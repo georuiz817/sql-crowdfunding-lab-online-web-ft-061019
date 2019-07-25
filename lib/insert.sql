@@ -72,13 +72,13 @@ INSERT INTO projects (title,category,funding_goal,start_date,end_date)
 VALUES ('greninja_project', 'water', 6000, '6/16/26', '7/17/38');
 
 INSERT INTO projects (title,category,funding_goal,start_date,end_date)
-VALUES ();
+VALUES ('gastly_project', 'ghost', 22000, '10/10/31', '11/11/32');
 
 INSERT INTO projects (title,category,funding_goal,start_date,end_date)
-VALUES ();
+VALUES ('haunter_project', 'ghost', 20, '11/11/22', '5/6/23');
 
 INSERT INTO projects (title,category,funding_goal,start_date,end_date)
-VALUES ();
+VALUES ('metapod_project', 'grass', 2000, '12/12/31', '12/12/');
 
 INSERT INTO projects (title,category,funding_goal,start_date,end_date)
 VALUES ();
