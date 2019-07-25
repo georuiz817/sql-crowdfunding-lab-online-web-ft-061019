@@ -1,1 +1,1 @@
-CREATE TABLE projects (ID INTENER PRIMARY KEY, title TEXT, category TEXT, funding_goal INTEGER, )
+CREATE TABLE projects (ID INTENER PRIMARY KEY, title TEXT, category TEXT, funding_goal INTEGER, start_date  )
