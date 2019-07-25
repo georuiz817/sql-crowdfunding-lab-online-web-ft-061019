@@ -63,19 +63,19 @@ VALUES ('prancer' ,45 );
 -- projects start 
 
 INSERT INTO projects (title,category,funding_goal,start_date,end_date)
-VALUES ('squirtle_project','water', 5000, '3/15/19', '3/15/2020');
+VALUES ('squirtle_project','water', 5000, '3/15/19', '3/15/20');
 
 INSERT INTO projects (title,category,funding_goal,start_date,end_date)
-VALUES ('bulbasaur_project', 'grass', 3000, '2/20/20', '2/28/30');
+VALUES ('bulbasaur_project', 'grass', 3000, '2/20/20', '2/20/21');
 
 INSERT INTO projects (title,category,funding_goal,start_date,end_date)
-VALUES ('greninja_project', 'water', 6000, '6/16/26', '7/17/38');
+VALUES ('greninja_project', 'water', 6000, '6/16/26', '6/16/27');
 
 INSERT INTO projects (title,category,funding_goal,start_date,end_date)
-VALUES ('gastly_project', 'ghost', 22000, '10/10/31', '11/11/32');
+VALUES ('gastly_project', 'ghost', 22000, '10/10/31', '10/10/32');
 
 INSERT INTO projects (title,category,funding_goal,start_date,end_date)
-VALUES ('haunter_project', 'ghost', 20, '11/11/22', '5/6/23');
+VALUES ('haunter_project', 'ghost', 20, '11/11/22', '11/11/23');
 
 INSERT INTO projects (title,category,funding_goal,start_date,end_date)
 VALUES ('metapod_project', 'grass', 2000, '12/12/31', '12/12/32');
@@ -84,13 +84,14 @@ INSERT INTO projects (title,category,funding_goal,start_date,end_date)
 VALUES ('venasaur_project', 'grass', 1000, '12/12/20', '12/12/21');
 
 INSERT INTO projects (title,category,funding_goal,start_date,end_date)
-VALUES ();
+VALUES ('magikarp_project', 'water', 50000, '9/9/20', 
+'9/9/21');
 
 INSERT INTO projects (title,category,funding_goal,start_date,end_date)
-VALUES ();
+VALUES ('boo_project', 'ghost', 10000, '8/1/20', '8/1/21');
 
 INSERT INTO projects (title,category,funding_goal,start_date,end_date)
-VALUES ();
+VALUES ('goldeen_project', 'water', 40000, '1/1/50', '1/1/51');
 
 
 
