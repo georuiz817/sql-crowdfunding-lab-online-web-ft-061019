@@ -1,2 +1,2 @@
-INSERT INTO users (column1, column2, column3, ...)
+INSERT INTO users (name, age)
 VALUES (value1, value2, value3, ...);
