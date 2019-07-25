@@ -1,4 +1,4 @@
-
+--users start
 
 INSERT INTO users (name, age)
 VALUES ('brunhilda',24 );
@@ -59,4 +59,9 @@ VALUES ('donner' , 18 );
 
 INSERT INTO users (name, age)
 VALUES ('prancer' ,45 );
+
+-- projects start 
+
+INSERT INTO projects (title,category,funding_goal,start_date,end_date)
+VALUES ();
 
