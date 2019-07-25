@@ -69,7 +69,7 @@ INSERT INTO projects (title,category,funding_goal,start_date,end_date)
 VALUES ('bulbasaur_project', 'grass', 3000, '2/20/20', '2/28/30');
 
 INSERT INTO projects (title,category,funding_goal,start_date,end_date)
-VALUES ();
+VALUES ('greninja_project', 'water', 6000, '6/16/26', '7/17/38');
 
 INSERT INTO projects (title,category,funding_goal,start_date,end_date)
 VALUES ();
