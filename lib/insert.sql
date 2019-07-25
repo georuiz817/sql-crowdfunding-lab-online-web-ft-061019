@@ -1,10 +1,10 @@
 --users start
 
 INSERT INTO users (name, age)
-VALUES ('brunhilda',24 );
+VALUES ();
 
 INSERT INTO users (name, age)
-VALUES ('basoon' ,15 );
+VALUES ();
 
 INSERT INTO users (name, age)
 VALUES ('popeye' ,50 );
