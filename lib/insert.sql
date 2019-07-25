@@ -81,7 +81,7 @@ INSERT INTO projects (title,category,funding_goal,start_date,end_date)
 VALUES ('metapod_project', 'grass', 2000, '12/12/31', '12/12/32');
 
 INSERT INTO projects (title,category,funding_goal,start_date,end_date)
-VALUES ();
+VALUES ('venasaur_project', 'grass', 1000, '12/12/20', '12/12/21');
 
 INSERT INTO projects (title,category,funding_goal,start_date,end_date)
 VALUES ();
