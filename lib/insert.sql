@@ -1,63 +1,61 @@
 -- users start 
 
 INSERT INTO users (name, age)
-VALUES ();
+VALUES (,);
 
 INSERT INTO users (name, age)
-VALUES ();
+VALUES (,);
 
 INSERT INTO users (name, age)
-VALUES ();
+VALUES (,);
 
 INSERT INTO users (name, age)
-VALUES ();
+VALUES (,);
 
 INSERT INTO users (name, age)
-VALUES ();
+VALUES (,);
 
 INSERT INTO users (name, age)
-VALUES ();
+VALUES (,);
 
 INSERT INTO users (name, age)
-VALUES ();
+VALUES (,);
 
 INSERT INTO users (name, age)
-VALUES ();
+VALUES (,);
 
 INSERT INTO users (name, age)
-VALUES ();
+VALUES (,);
 
 INSERT INTO users (name, age)
-VALUES ();
+VALUES (,);
 
 INSERT INTO users (name, age)
-VALUES ();
+VALUES (,);
 
 INSERT INTO users (name, age)
-VALUES ();
+VALUES (,);
 
 INSERT INTO users (name, age)
-VALUES ();
+VALUES (,);
 
 INSERT INTO users (name, age)
-VALUES ();
+VALUES (,);
 
 INSERT INTO users (name, age)
-VALUES ();
+VALUES (,);
 
 INSERT INTO users (name, age)
-VALUES ();
+VALUES (,);
 
 INSERT INTO users (name, age)
-VALUES ();
+VALUES (,);
 
 INSERT INTO users (name, age)
-VALUES ();
+VALUES (,);
 
 INSERT INTO users (name, age)
-VALUES ();
+VALUES (,);
 
 INSERT INTO users (name, age)
-VALUES ();
-
-
+VALUES (,);
